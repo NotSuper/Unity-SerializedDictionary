@@ -1,0 +1,16 @@
+{
+    "name": "NotSuper.SerializedDictionary.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e681598e534dbe41a8ca51d6f9a5117"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
